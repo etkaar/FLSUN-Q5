@@ -6,8 +6,7 @@ Attachable illumination plate for FLSUN Q5 printer which can hold three LEDs.
 # Photos
 
 ![DSC_0038](https://user-images.githubusercontent.com/40885610/140659852-a3462518-6257-44e9-84bd-b964f686d143.JPG)
-![DSC_0160](https://user-images.githubusercontent.com/40885610/140661709-6a26a3b9-8f41-4413-952c-8217b9133c77.JPG)
-
+![DSC_0154](https://user-images.githubusercontent.com/40885610/140663714-e008f1c1-6175-45a5-a810-bc276f6c6f32.JPG)
 
 # Preview (OpenSCAD)
 <img width="943" alt="FLSUN-Q5-LED-Holder" src="https://user-images.githubusercontent.com/40885610/140659686-2dd251aa-b955-466c-b95a-f8d57c238b5c.png">
