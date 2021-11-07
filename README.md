@@ -1,5 +1,7 @@
 # LED Plate Holder for FLSUN Q5
-Attachable illumination plate for FLSUN Q5 printer which can hold three LEDs. You can find a short video [here](https://www.youtube.com/watch?v=atVG6flC78Q).
+Attachable illumination plate for FLSUN Q5 printer which can hold three LEDs.
+
+🎞 You can find a short video [here](https://www.youtube.com/watch?v=atVG6flC78Q).
 
 # Photos
 
